@@ -1,0 +1,75 @@
+    1  ls
+    2  ls
+    3  ls -t
+    4  ls -l
+    5  ls
+    6  ls -lt
+    7  ls -r
+    8  ls -lt
+    9  ls -lr
+   10  ls -lt
+   11  ls -sr
+   12  man ls
+   13  man ls
+   14  man -less
+   15  man
+   16  man -ls
+   17  man ls
+   18  man -R
+   19  ls -R
+   20  ls -R
+   21  history
+   22  history |less
+   23  history | less
+   24  history | less
+   25  h
+   26  H
+   27  H/
+   28  h/
+   29  h
+   30  history | less
+   31  man less
+   32  cd
+   33  history > moving_around.txt
+   34  ls
+   35  ls -l
+   36  ll
+   37  history > moving_around.txt
+    1  ls
+    2  ls
+    3  ls -t
+    4  ls -l
+    5  ls
+    6  ls -lt
+    7  ls -r
+    8  ls -lt
+    9  ls -lr
+   10  ls -lt
+   11  ls -sr
+   12  man ls
+   13  man ls
+   14  man -less
+   15  man
+   16  man -ls
+   17  man ls
+   18  man -R
+   19  ls -R
+   20  ls -R
+   21  history
+   22  history |less
+   23  history | less
+   24  history | less
+   25  h
+   26  H
+   27  H/
+   28  h/
+   29  h
+   30  history | less
+   31  man less
+   32  cd
+   33  history > moving_around.txt
+   34  ls
+   35  ls -l
+   36  ll
+   37  history > moving_around.txt
+   38  history >> moving_around.txt
