@@ -1,4 +1,6 @@
-    1  ls
+    1  # Hidden folder where the taging area and commits live
+    .git/
+
     2  ls
     3  ls -t
     4  ls -l
@@ -19,7 +21,6 @@
    19  ls -R
    20  ls -R
    21  history
-   22  history |less
    23  history | less
    24  history | less
    25  h
